@@ -14,7 +14,7 @@ This simple Streamlit app demonstrates user authentication using the streamlit-a
     Install the required libraries:
     Bash
 
-    pip install streamlit streamlit-authenticator yaml
+    pip install streamlit streamlit-authenticator
 
     Use code with caution.
 
